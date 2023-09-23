@@ -10,7 +10,7 @@ Demo of the basic functionality - just getting pairwise/n-wise combinations
 # http://www.stsc.hill.af.mil/consulting/sw_testing/improvement/cst.html
 
 
-parameters = [ [ "Male", "Female" ]
+parameters = [ [ "X", "Y" ]
              , [ "Win 7", "Win 8", "Win 10", "Linux"]
              , [ "Network", "Modem", "Wifi" ]
              , [ "Salaried", "Hourly", "Part-Time" ]
